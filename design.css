@@ -1,0 +1,25 @@
+.images-row {
+   
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+  
+  
+  .images-column {
+    flex: 15%;
+    max-width: 30%;
+    padding: 10px;
+  }
+  
+  .images-column img {
+    margin-top: 8px;
+    width: 100%;
+  }
+    
+ 
+
+  
+  
+ 
+  
