@@ -1,8 +1,7 @@
 .images-row {
    
     display: flex;
-    flex-wrap: wrap;
-    padding: 20px;
+    justify-content:center;
   }
   
   
